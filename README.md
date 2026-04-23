@@ -4,9 +4,9 @@ Static web/admin panel for the Soberemsya ecosystem.
 
 ## Repositories
 
-- `Soberemsya` — iOS + watchOS app
-- `Soberemsya-backend` — FastAPI backend
-- `Soberemsya-web` — this web/admin panel
+- [Soberemsya](https://github.com/vadimkulishov/Soberemsya) — iOS + watchOS app
+- [Soberemsya-backend](https://github.com/vadimkulishov/Soberemsya-backend) — FastAPI backend
+- [Soberemsya-web](https://github.com/vadimkulishov/Soberemsya-web) — this web/admin panel
 
 ## Stack
 
